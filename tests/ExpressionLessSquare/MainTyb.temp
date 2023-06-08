@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+class Main {
+    static boolean test;    
+                            
+
+    function void main() {
+        var SquareGame game;
+        let game = game;
+        do game.run();
+        do game.dispose();
+        return;
+    }
+
+    function void more() {  
+        var boolean b;      
+        if (b) {
+        }
+        else {              
+        }
+        return;
+    }
+}
